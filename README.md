@@ -2,7 +2,7 @@
 
 The most advanced BPM finder tool that analyzes audio files and tap tempo with professional accuracy. Perfect for DJs, producers, and music creators.
 
-Try it now! 
+[Try it now! ](https://bpm-finder.net/)
 
 ## ✨ Features
 
