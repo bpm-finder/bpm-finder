@@ -81,7 +81,6 @@ This project is licensed under the terms specified in the [LICENSE](LICENSE) fil
 
 
 
-
 BPM Finder tools have revolutionized how musicians, DJs, and audio professionals analyze tempo in their music. From professional reviews to real user feedback, we've collected comprehensive insights about the most popular BPM detection tools available today. This guide presents authentic user experiences, media coverage, and expert opinions to help you understand the current landscape of audio analysis software.
 
 ## Website Profiles of BPM Finder
@@ -90,6 +89,7 @@ BPM Finder tools have revolutionized how musicians, DJs, and audio professionals
 - [provenexpert](https://www.provenexpert.com/bpm-finder/)
 - [wellfound](https://wellfound.com/company/bpm-finder)
 - [pinterest](https://www.pinterest.com/08ajy80s5bwi4abvzptrqhiivd0gzp/_profile/)
+- [bluesky](https://bsky.app/profile/yxchen1994.bsky.social)
 
 ## **Part I: Media Reviews or Launches**
 
@@ -109,6 +109,11 @@ The audio analysis industry has seen tremendous growth, with BPM Finder becoming
 - [producthunt](https://www.producthunt.com/products/bpm-finder-3)
 - [peerlist](https://peerlist.io/yxchen1994/project/bpm-finder)
 - [pinterest](https://www.pinterest.com/pin/996421486315969778/)
+- [dev.to](https://dev.to/_ab56e9bbfaff3a478352a/building-bpm-finder-technical-challenges-in-client-side-audio-analysis-4n3)
+- [promoteproject](https://www.promoteproject.com/startup/190605/bpm-finder)
+- [qiita](https://qiita.com/yxchen1994/items/9521846dfb97375f04c6)
+- [gpters](https://www.gpters.org/hello/post/hangugeo-poseuteu---bpm-finder-gaebaleseo-ai-hwalyong-R171Jx0Usve0d1z)
+
 
 ## **Part II: User Testimonials**
 
@@ -300,6 +305,24 @@ The most valuable insights come directly from the users who rely on BPM Finder i
 - [nufcblog](https://www.nufcblog.co.uk/2025/04/17/alan-pardew-delivers-message-to-jason-tindall-after-5-0-victory-against-crystal-palace/comment-page-1/#comment-891093)
 - [malaysiamostwanted](http://blog.malaysiamostwanted.com/2011/09/how-malaysiamostwanted-mmw-got-booted.html)
 - [romafaschifo](http://www.romafaschifo.com/2008/06/alla-stazione-tiburtina.html)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
