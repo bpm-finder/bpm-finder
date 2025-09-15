@@ -92,6 +92,7 @@ BPM Finder tools have revolutionized how musicians, DJs, and audio professionals
 - [pinterest](https://www.pinterest.com/08ajy80s5bwi4abvzptrqhiivd0gzp/_profile/)
 - [bluesky](https://bsky.app/profile/yxchen1994.bsky.social)
 - [Chrome Extension](https://chromewebstore.google.com/detail/bpm-finder/dnglnpjabilkpdpladafpncpgoabmalc?hl=en)
+- [NPM Package](https://www.npmjs.com/package/bpm-finder)
 
 ## **Part I: Media Reviews or Launches**
 
